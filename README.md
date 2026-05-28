@@ -4,8 +4,6 @@ An end-to-end data analytics project built entirely in **Microsoft Excel**, cove
 
 This project takes a real-world style retail dataset (~31,000 order records) and turns it into a clean, decision-ready **annual sales report** — the kind a business owner could actually use to plan for next year.
 
----
-
 ## 🎯 Objective
 
 Vrinda Store wanted to create an **Annual Sales Report for 2022** so the business could clearly understand its customers and find ways to **grow sales in 2023**.
