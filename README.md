@@ -94,7 +94,7 @@ What makes it interactive:
 - Every chart updates instantly when a slicer is selected
 - A consistent layout and colour theme so it reads like a finished business report, not a spreadsheet
 
-💡 *Excel skills used:* Slicers, dashboard layout design, connecting slicers to multiple PivotCharts, and visual formatting.
+> 💡 *Excel skills used:* Slicers, dashboard layout design, connecting slicers to multiple PivotCharts, and visual formatting.
 
 ## 🔍 6. Key Insights
 
